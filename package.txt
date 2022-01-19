@@ -1,0 +1,3 @@
+pip install pyqrcode
+pip install pillow
+pip install pypng
